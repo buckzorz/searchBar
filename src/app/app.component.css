@@ -1,0 +1,23 @@
+body{
+    background-color: gainsboro;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.borders{
+    border-radius: 5px;
+    font-size: 25px;
+    height: 25px;
+}
+.query-textbox{
+    width: 600px;
+}
+.engine-select{
+    width: 300px;
+    height: 31px;
+    margin: 0 10px 0 10px
+}
+.button-submit{
+    height: 31px;
+}
